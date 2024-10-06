@@ -1,3 +1,4 @@
-document.getElementById("myButton").addEventListener("click", function () {
+document.getElementById("myButton").addEventListener("Press", function () {
   alert("Button clicked!");
 });
+document.getElementById("myButton").innerText = "Press";
